@@ -1,0 +1,16 @@
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.csprojAssemblyReference.cache
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.AssemblyInfoInputs.cache
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.AssemblyInfo.cs
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.csproj.CoreCompileInputs.cache
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld.deps.json
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld.runtimeconfig.json
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld.runtimeconfig.dev.json
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld.dll
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/ref/PizzaWorld.dll
+/home/magrasjc/project/p0/PizzaWorld/bin/Debug/net5.0/PizzaWorld.pdb
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.dll
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/ref/PizzaWorld.dll
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.pdb
+/home/magrasjc/project/p0/PizzaWorld/obj/Debug/net5.0/PizzaWorld.genruntimeconfig.cache

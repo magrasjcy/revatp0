@@ -1,0 +1,7 @@
+
+dotnet new sln -o PizzaWorld
+dotnet new console -o PizzaWorld
+dotnet new xunit --force -o PizzaWorld.Test
+dotnet new classlib -o PizzaWorld.DataStore
+dotnet new sln -o PizzaWorld
+dotnet sln PizzaWorld/PizzaWorld.sln add  PizzaWorld/PizzaWorld.csproj ./PizzaWorld.DataStore/PizzaWorld.DataStore.csproj ./PizzaWorld.Test/PizzaWorld.Test.csproj

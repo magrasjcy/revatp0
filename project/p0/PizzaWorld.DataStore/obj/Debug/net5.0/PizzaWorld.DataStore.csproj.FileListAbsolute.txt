@@ -1,0 +1,12 @@
+/home/magrasjc/project/p0/PizzaWorld.DataStore/bin/Debug/net5.0/PizzaWorld.DataStore.deps.json
+/home/magrasjc/project/p0/PizzaWorld.DataStore/bin/Debug/net5.0/PizzaWorld.DataStore.dll
+/home/magrasjc/project/p0/PizzaWorld.DataStore/bin/Debug/net5.0/ref/PizzaWorld.DataStore.dll
+/home/magrasjc/project/p0/PizzaWorld.DataStore/bin/Debug/net5.0/PizzaWorld.DataStore.pdb
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.csprojAssemblyReference.cache
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.AssemblyInfoInputs.cache
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.AssemblyInfo.cs
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.csproj.CoreCompileInputs.cache
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.dll
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/ref/PizzaWorld.DataStore.dll
+/home/magrasjc/project/p0/PizzaWorld.DataStore/obj/Debug/net5.0/PizzaWorld.DataStore.pdb
